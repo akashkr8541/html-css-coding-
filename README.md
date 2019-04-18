@@ -1,2 +1,3 @@
-# html-css-coding-
-This ia the first attempt for website making by me 
+# html-css coding :- 
+This is the first website made by me 
+
